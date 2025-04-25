@@ -1,4 +1,4 @@
-# 🧪 Iniciação Científica 2023
+# 🧪 Iniciação Científica 2024
 
 Este repositório documenta meu projeto de Iniciação Científica realizado em 2023, com foco em "Avaliação ergonómica mediante aquisição e tratamento de sinais neuromusculares".
 
